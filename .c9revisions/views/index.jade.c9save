@@ -1,0 +1,4 @@
+{"ts":1367538464610,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"extends layout\n\nblock content\n  h1= title\n  p Welcome to #{title}"]],"start1":0,"start2":0,"length1":0,"length2":65}]],"length":65}
+{"contributors":[],"silentsave":false,"ts":1367538748174,"patch":[[{"diffs":[[0,"#{title}"],[1,"\n  img(src=\"/images/Under_construction.JPG\")"]],"start1":57,"start2":57,"length1":8,"length2":52}]],"length":109,"saved":false}
+{"ts":1367538793296,"patch":[[{"diffs":[[0,"t\n  h1= "],[-1,"title"],[1,"Under Construction"],[0,"\n  p Wel"]],"start1":28,"start2":28,"length1":21,"length2":34}]],"length":122,"saved":false}
+{"ts":1367538801957,"patch":[[{"diffs":[[0,"ent\n  h1"],[-1,"="],[0," Under C"]],"start1":26,"start2":26,"length1":17,"length2":16}]],"length":121,"saved":false}
