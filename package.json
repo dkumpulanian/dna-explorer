@@ -8,7 +8,6 @@
   "dependencies": {
     "express": "3.2.1",
     "jade": "*",
-    "jquery":"*",
     "fastareader":"0.2.0"
   }
 }
