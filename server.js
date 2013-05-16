@@ -1,6 +1,16 @@
-var http = require('http');
+var express = require('express');
+var app = express();
 
-http.createServer(function (req, res) {
-  res.writeHead(200, {'Content-Type': 'text/plain'});
-  res.end('Hello World from Cloud9\n');
-}).listen(process.env.PORT);
+app.configure(function() {
+    app.use(express.bodyParser()); // used to parse JSON object given in the request body
+});
+
+app.get('/test', function (request, response) {
+    var blah={
+            test:true,
+            roola:'oh no'
+        };
+    response.json(blah);
+});
+
+app.listen(8080);

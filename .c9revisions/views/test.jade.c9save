@@ -1,0 +1,8 @@
+{"ts":1368743323371,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1368744202498,"patch":[[{"diffs":[[1,"extends layout\r\n\r\nblock content\r\n  \r\n\r\n<script type=\"text/javascript\">\r\n  console.log(data)\r\n</script>"]],"start1":0,"start2":0,"length1":0,"length2":102}]],"length":102,"saved":false}
+{"ts":1368744204743,"patch":[[{"diffs":[[0,"og(data)"],[1,";"],[0,"\r\n</scri"]],"start1":83,"start2":83,"length1":16,"length2":17}]],"length":103,"saved":false}
+{"ts":1368744342758,"patch":[[{"diffs":[[0,"\r\n  "],[-1,"\r\n\r\n<script type=\"text/javascript\">\r\n  console.log(data);\r\n</script>"],[1,"  p test"]],"start1":31,"start2":31,"length1":72,"length2":12}]],"length":43,"saved":false}
+{"ts":1368744360078,"patch":[[{"diffs":[[0,"  p test"],[1," ${data}"]],"start1":35,"start2":35,"length1":8,"length2":16}]],"length":51,"saved":false}
+{"ts":1368744415047,"patch":[[{"diffs":[[0,"est "],[-1,"$"],[1,"#"],[0,"{dat"]],"start1":40,"start2":40,"length1":9,"length2":9}]],"length":51,"saved":false}
+{"ts":1368744957912,"patch":[[{"diffs":[[0," test #{"],[1,"locals."],[0,"data}"]],"start1":38,"start2":38,"length1":13,"length2":20}]],"length":58,"saved":false}
+{"ts":1368744989607,"patch":[[{"diffs":[[0,"t #{"],[-1,"locals."],[0,"data"]],"start1":42,"start2":42,"length1":15,"length2":8}]],"length":51,"saved":false}
